@@ -11,5 +11,7 @@ public class GitTest {
     System.out.println("git for test push");
 
     System.out.println("git test update");
+
+    System.out.println("git test update 2");
   }
 }
