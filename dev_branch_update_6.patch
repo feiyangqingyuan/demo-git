@@ -1,0 +1,15 @@
+Index: src/main/java/demo/GitTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/demo/GitTest.java	(revision 2bb374c42d6b959df8fb17fc8eb3bf0258be02c5)
++++ src/main/java/demo/GitTest.java	(date 1585201947953)
+@@ -21,5 +21,7 @@
+     System.out.println("git dev update 4");
+ 
+     System.out.println("git remote update 2");
++
++    System.out.println("git dev update 6");
+   }
+ }
