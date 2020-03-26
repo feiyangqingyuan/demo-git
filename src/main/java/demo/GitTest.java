@@ -17,5 +17,7 @@ public class GitTest {
     System.out.println("git remote update 1");
 
     System.out.println("git dev update 3");
+
+    System.out.println("git dev update 4");
   }
 }
