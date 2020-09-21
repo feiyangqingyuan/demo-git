@@ -12,5 +12,6 @@ public class GitTest2 {
         System.out.println("git commit test pull");
         System.out.println("git remote commit test pull");
         System.out.println("git commit test fetch");
+        System.out.println("git remote commit test fetch");
     }
 }
